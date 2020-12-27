@@ -6,9 +6,9 @@
 - 💬 Ask me about my works [here](https://github.com/k0ns0l/k0ns0l/issues).
 - 📫 How to reach me: [Send me a mail](mailto:k0ns0l@protonmail.com) or reach me via [twitter](https://twitter.com/k0ns0l).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0ns0l&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0ns0l&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Mansur's github stats](https://github-readme-stats.vercel.app/api?username=k0ns0l&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Mansur's github stats](https://github-readme-stats.vercel.app/api?username=k0ns0l&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
